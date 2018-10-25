@@ -6,7 +6,6 @@ class tugas2 {
         System.out.println("* * *");
         System.out.println("*   * *");
         System.out.println("* * *");
-        System.out.println("* * *");
         
     }
     
